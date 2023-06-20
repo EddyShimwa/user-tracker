@@ -130,8 +130,12 @@ table{
 @media only screen and (max-width: 1024px){
     table, thead, tbody, th, td, tr{
         display: block;
+        
     }
 
+    table {
+        margin-top: 10%;
+    }
     thead tr{
         position: absolute;
         top: -9999px;
