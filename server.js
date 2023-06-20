@@ -2,6 +2,7 @@ const express = require('express');
 const dotenv = require('dotenv');
 const morgan = require('morgan');
 const bodyparser = require('body-parser');
+const path = require('path');
 
 
 const app = express();
@@ -26,7 +27,7 @@ app.use('/img', express.static(path.resolve(__dirname, 'asssets/img')))
 app.use('/js', express.static(path.resolve(__dirname, 'asssets/js')))
 
 app.get('/', (req, res) => {
-    res.send('Hey node am back');
+    res.render('index');
 })
 
 app.listen(PORT, () => {console.log(`Server is running on http://localhost:${PORT}`)});
