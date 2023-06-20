@@ -22,6 +22,8 @@ app.set("view engine", "ejs")
 
 // load assets
 app.use('/css', express.static(path.resolve(__dirname, 'asssets/css')))
+app.use('/img', express.static(path.resolve(__dirname, 'asssets/img')))
+app.use('/js', express.static(path.resolve(__dirname, 'asssets/js')))
 
 app.get('/', (req, res) => {
     res.send('Hey node am back');
