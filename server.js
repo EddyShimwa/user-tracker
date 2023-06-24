@@ -22,9 +22,9 @@ app.use(bodyparser.urlencoded({extended: true}))
 app.set("view engine", "ejs")
 
 // load assets
-app.use('/css', express.static(path.resolve(__dirname, 'asssets/css')))
-app.use('/img', express.static(path.resolve(__dirname, 'asssets/img')))
-app.use('/js', express.static(path.resolve(__dirname, 'asssets/js')))
+app.use('/css', express.static(path.resolve(__dirname, 'assets/css')))
+app.use('/img', express.static(path.resolve(__dirname, 'assets/img')))
+app.use('/js', express.static(path.resolve(__dirname, 'assets/js')))
 
 app.get('/', (req, res) => {
     res.render('index');
