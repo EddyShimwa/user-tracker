@@ -6,7 +6,7 @@
 
   <br/>
 
-  <h3><b>hello-react-front-end</b></h3>
+  <h3><b>User Tracker</b></h3>
 
 </div>
 
