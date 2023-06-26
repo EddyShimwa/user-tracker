@@ -148,8 +148,7 @@ If you like this project star this repository
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse for this opportunity to learn
-
+I would like to thank node.js for the Good documentation
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
