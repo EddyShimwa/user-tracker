@@ -42,8 +42,8 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>React</li>
-    <li>Redux<li>
+    <li>Node.js</li>
+    <li>MongoDB<li>
   </ul>
 </details>
 
