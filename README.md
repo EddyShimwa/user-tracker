@@ -50,16 +50,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Back-end Api Repository <a name="Back-end-repo"></a>
-
-- [Back-end-api repo](https://github.com/EddyShimwa/hello-rails-back-end)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -80,7 +73,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/EddyShimwa/hello-react-front-end.git
+  git clone https://github.com/EddyShimwa/user-tracker.git
 ```
 
 ### Install
@@ -88,7 +81,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd hello-react-front-end
+  cd user-tracker
   npm install
 ```
 
