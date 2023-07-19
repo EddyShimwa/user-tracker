@@ -75,9 +75,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/EddyShimwa/user-tracker.git
 ```
-
-### Install
-
 Install this project with:
 
 ```sh
