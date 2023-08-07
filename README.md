@@ -6,7 +6,7 @@
 
   <br/>
 
-  <h3><b>User Tracker</b></h3>
+  <h3><b>User Tracker App </b></h3>
 
 </div>
 
