@@ -6,7 +6,7 @@
 
   <br/>
 
-  <h3><b>User Tracker</b></h3>
+  <h3><b>User Tracker App </b></h3>
 
 </div>
 
@@ -75,9 +75,6 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/EddyShimwa/user-tracker.git
 ```
-
-### Install
-
 Install this project with:
 
 ```sh
