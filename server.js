@@ -11,8 +11,6 @@ dotenv.config({path: 'config.env'});
 const PORT = process.env.PORT || 8080;
 
 
-// log requests
-
 app.use(morgan('tiny'));
 
 app.use(bodyparser.urlencoded({extended: true}))
