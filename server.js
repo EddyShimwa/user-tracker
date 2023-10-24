@@ -3,14 +3,12 @@ const dotenv = require('dotenv');
 const morgan = require('morgan');
 const bodyparser = require('body-parser');
 const path = require('path');
-
-
 const app = express();
 dotenv.config({path: 'config.env'});
 
 const PORT = process.env.PORT || 8080;
 
-
+//add routes
 app.use(morgan('tiny'));
 
 app.use(bodyparser.urlencoded({extended: true}))
